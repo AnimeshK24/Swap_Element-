@@ -24,7 +24,7 @@ How to use-
 
 The Moving Average Calculation Algorithm computes the moving average of a sequence of numeric values over a specified window size. It takes a sequence of numeric values and a window size as input parameters and outputs a sequence of moving average values corresponding to each position in the input sequence.
 
-Use Case:
+Use Case:-
 
 1.Stock Market Analysis: Investors often use moving averages to analyze stock price trends over time. By calculating the moving average of a stock's price over a certain period, investors can identify trends, such as uptrends or downtrends, and make informed trading decisions.
 
@@ -32,7 +32,7 @@ Use Case:
 
 3.Signal Processing: In audio or image processing applications, analyzing the moving average of signals can be useful for noise reduction and signal enhancement. By calculating the moving average of signal samples over a specified window, unwanted noise can be filtered out, improving the quality of the processed data.
 
-To use the Moving Average Calculation Algorithm in your codebase:
+To use the Moving Average Calculation Algorithm in your codebase:-
 
 1.Include the necessary headers ("movingaverage.h).
 
@@ -41,4 +41,5 @@ To use the Moving Average Calculation Algorithm in your codebase:
 3.Call the moving_average function with your input sequence and desired window size.
 
 4.Retrieve the computed moving average values from the output iterator and use them for further analysis or visualization.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
